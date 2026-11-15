@@ -1,6 +1,6 @@
 # Hi there, I'm Gurpeet Singh 👋
 
-### 💻 Frontend Developer | Web Developer | Tech Enthusiast
+### 💻 Frontend Developer | Web Developer 
 
 I'm **Gurpeet Singh**, a passionate Web Developer who loves building modern, responsive, and user-friendly websites and web applications.
 
